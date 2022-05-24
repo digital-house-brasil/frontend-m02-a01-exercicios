@@ -56,16 +56,16 @@
   ];
   ```
 
-  > 1 - Escreva um código que retorne somente os nomes dos itens da lista de compra como um array;
-  > 2 - Escreva um código que retorne a soma de todos os valores da lista de compras;
-  > 3 - Escreva um código que retone os nomes dos items como uma string separada por vírgulas;
-  > 4 - Escreva um código que remova somente o último item da lista de compra;
-  > 5 - Escreva um código que remova somente o primeiro da lista de compras;
-  > 6 - Escreva um código que retorne somente os itens ordenados pelo nome de forma crescente;
-  > 7 - Escreva um código que retorne somente os itens ordenados pelo valor de forma decrescente;
-  > 8 - Escreva um código que adicione o objeto {nome:'Macarrão', valor: 5.50} na lista de compras;
-  > 9 - Escreva um código que retone o item Feijão;
-  > 10 - Escreva um código que retorne o valor dos itens da lista de compras adicionando R$;
+  - 1 - Escreva um código que retorne somente os nomes dos itens da lista de compra como um array;
+  - 2 - Escreva um código que retorne a soma de todos os valores da lista de compras;
+  - 3 - Escreva um código que retone os nomes dos items como uma string separada por vírgulas;
+  - 4 - Escreva um código que remova somente o último item da lista de compra;
+  - 5 - Escreva um código que remova somente o primeiro da lista de compras;
+  - 6 - Escreva um código que retorne somente os itens ordenados pelo nome de forma crescente;
+  - 7 - Escreva um código que retorne somente os itens ordenados pelo valor de forma decrescente;
+  - 8 - Escreva um código que adicione o objeto {nome:'Macarrão', valor: 5.50} na lista de compras;
+  - 9 - Escreva um código que retone o item Feijão;
+  - 10 - Escreva um código que retorne o valor dos itens da lista de compras adicionando R$;
  
 </details>
 
