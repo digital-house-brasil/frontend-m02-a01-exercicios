@@ -178,7 +178,6 @@
   ```515.0```
   ### Calculadora Simples
   > Você deverá construir uma calculadora simples, que ao receber dois números e um operador, exibe o resultado da operação.
-  > Dica: para converter uma `String` para `double`, utilize `double.parse()`.
 
   > input:
   > Duas variáveis `double` e um operador `String`
