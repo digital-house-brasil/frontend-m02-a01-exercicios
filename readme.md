@@ -127,24 +127,7 @@
   > Sample Output 
 
   ```100.0```
-  ### Caçadores de Bugs
-  > Você foi convidado por um amigo a resolver um problema de um programa que ele não consegue entender o que está dando errado. Esse programa calcula a distancia entre dois pontos num plano e exibe uma classificação. Encontre os problemas para que o programa volte a funcionar, exibindo a resposta correta.
-
-  > input
-  > Dois pontos no plano (x1, y1), (x2, y2)
-
-  > output
-  > `Longe` ou `Perto`
-
-  > Exemplo de entrada:
-  > Sample Input 
-  
-  ```1 1 2 3```
-
-  > Sample Output 
-
-  ```Perto```
-  ### Cálculo da Parcela
+    ### Cálculo da Parcela
   > Um novo banco abriu em seu estado e liberou a fórmula que ele utiliza para calcular o valor da parcela de um tipo de empréstimo.
 
   > A fórmula precisa de 3 dados, o valor do empréstimo, seu score no Serasa e em quantos meses a pessoa pretende pagar.
